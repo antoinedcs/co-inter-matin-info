@@ -11,3 +11,5 @@ Y = df["danger"]
 W = random.randint(-10,10)
 B = random.randint(-10,10)
 
+print("W:", W)
+print("B:", B)
